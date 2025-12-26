@@ -81,12 +81,13 @@
       "category": "Internacional"
     },
     {
-      "id": "planet-tv",
-      "name": "Planet",
-      "stream_url": "https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8",
-      "logo": "https://raw.githubusercontent.com/robertovillalobos996-rgb/fabulosa-data/main/"logos/planet-radio.webp"
-",
-      "category": "Música"
+  "id": "planet-tv",
+  "name": "Planet",
+  "stream_url": "https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8",
+  "logo": "https://raw.githubusercontent.com/robertovillalobos996-rgb/fabulosa-data/main/logos/planet-radio.webp",
+  "category": "Música"
+}
+
     },
     {
       "id": "opa-tv",
