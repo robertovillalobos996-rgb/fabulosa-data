@@ -100,5 +100,33 @@
       "logo": "https://raw.githubusercontent.com/robertovillalobos996-rgb/fabulosa-data/main/logos/logo-fabulosa.png",
       "category": "Fabulosa"
     }
+  ],
+
+  "radio": [
+    {
+      "id": "radio-fabulosa",
+      "name": "Radio Fabulosa",
+      "stream_url": "https://dattavolt.com/8030/stream",
+      "logo": "https://raw.githubusercontent.com/robertovillalobos996-rgb/fabulosa-data/main/logos/logo-fabulosa.png",
+      "tags": ["radio", "fabulosa"]
+    }
+  ],
+  "radios": [
+    {
+      "id": "radio-fabulosa",
+      "name": "Radio Fabulosa",
+      "stream_url": "https://dattavolt.com/8030/stream",
+      "logo": "https://raw.githubusercontent.com/robertovillalobos996-rgb/fabulosa-data/main/logos/logo-fabulosa.png",
+      "tags": ["radio", "fabulosa"]
+    }
+  ],
+  "tv_channels": [
+    {
+      "id": "canal-11",
+      "name": "Canal 11",
+      "stream_url": "http://200.125.170.122:8000/play/a03s/index.m3u8",
+      "logo": "https://raw.githubusercontent.com/robertovillalobos996-rgb/fabulosa-data/main/logos/canal-11.webp",
+      "category": "Costa Rica"
+    }
   ]
 }
