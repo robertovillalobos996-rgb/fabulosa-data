@@ -4,7 +4,6 @@
     "version": "1.0",
     "updated_at": "2025-12-26"
   },
-
   "stations": [
     {
       "id": "radio-fabulosa",
@@ -14,7 +13,6 @@
       "tags": ["radio", "fabulosa"]
     }
   ],
-
   "channels": [
     {
       "id": "canal-11",
@@ -99,34 +97,56 @@
       "stream_url": "https://live20.bozztv.com/akamaissh101/ssh101/fabulosa/playlist.m3u8",
       "logo": "https://raw.githubusercontent.com/robertovillalobos996-rgb/fabulosa-data/main/logos/logo-fabulosa.png",
       "category": "Fabulosa"
-    }
-  ],
+    },
 
-  "radio": [
     {
-      "id": "radio-fabulosa",
-      "name": "Radio Fabulosa",
-      "stream_url": "https://dattavolt.com/8030/stream",
-      "logo": "https://raw.githubusercontent.com/robertovillalobos996-rgb/fabulosa-data/main/logos/logo-fabulosa.png",
-      "tags": ["radio", "fabulosa"]
-    }
-  ],
-  "radios": [
+      "id": "88-stereo",
+      "name": "88 stereo",
+      "stream_url": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
+      "logo": "https://raw.githubusercontent.com/robertovillalobos996-rgb/fabulosa-data/main/logos/88stereo.png",
+      "category": "Música"
+    },
     {
-      "id": "radio-fabulosa",
-      "name": "Radio Fabulosa",
-      "stream_url": "https://dattavolt.com/8030/stream",
-      "logo": "https://raw.githubusercontent.com/robertovillalobos996-rgb/fabulosa-data/main/logos/logo-fabulosa.png",
-      "tags": ["radio", "fabulosa"]
-    }
-  ],
-  "tv_channels": [
-    {
-      "id": "canal-11",
-      "name": "Canal 11",
-      "stream_url": "http://200.125.170.122:8000/play/a03s/index.m3u8",
-      "logo": "https://raw.githubusercontent.com/robertovillalobos996-rgb/fabulosa-data/main/logos/canal-11.webp",
+      "id": "canal-8",
+      "name": "Canal 8",
+      "stream_url": "https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8",
+      "logo": "https://raw.githubusercontent.com/robertovillalobos996-rgb/fabulosa-data/main/logos/canal-8.png",
       "category": "Costa Rica"
+    },
+    {
+      "id": "extrema-kids",
+      "name": "Extrema Kids",
+      "stream_url": "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8",
+      "logo": "https://raw.githubusercontent.com/robertovillalobos996-rgb/fabulosa-data/main/logos/extrema-Kids.png",
+      "category": "Kids"
+    },
+    {
+      "id": "gamtv",
+      "name": "GAMTV",
+      "stream_url": "https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8",
+      "logo": "https://raw.githubusercontent.com/robertovillalobos996-rgb/fabulosa-data/main/logos/gam.webp",
+      "category": "Costa Rica"
+    },
+    {
+      "id": "garavito-tv",
+      "name": "GARAVITO TV",
+      "stream_url": "https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8",
+      "logo": "https://raw.githubusercontent.com/robertovillalobos996-rgb/fabulosa-data/main/logos/garavito.jpg",
+      "category": "Costa Rica"
+    },
+    {
+      "id": "gex-tv",
+      "name": "GEX TV",
+      "stream_url": "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8",
+      "logo": "https://raw.githubusercontent.com/robertovillalobos996-rgb/fabulosa-data/main/logos/gextv.webp",
+      "category": "Entretenimiento"
+    },
+    {
+      "id": "retrox-tv",
+      "name": "RetroX TV",
+      "stream_url": "https://live21.bozztv.com/akamaissh101/ssh101/retroxcrtv/playlist.m3u8",
+      "logo": "https://raw.githubusercontent.com/robertovillalobos996-rgb/fabulosa-data/main/logos/retrox.png",
+      "category": "Retro"
     }
   ]
 }
