@@ -4,9 +4,6 @@
     "version": "1.0",
     "updated_at": "2025-12-26"
   },
-  "assets": {
-    "base_url": "https://raw.githubusercontent.com/robertovillalobos996-rgb/fabulosa-data/main/logos"
-  },
   "radio": [
     {
       "id": "radio-fabulosa",
@@ -42,7 +39,7 @@
       "id": "canal-10",
       "name": "Canal 10",
       "stream_url": "http://200.125.170.122:8000/play/a0e3/index.m3u8",
-      "logo": "https://raw.githubusercontent.com/robertovillalobos996-rgb/fabulosa-data/main/logos/c10.jpg",
+      "logo": "https://raw.githubusercontent.com/robertovillalobos996-rgb/fabulosa-data/main/logos/C10.jpg",
       "category": "Costa Rica"
     },
     {
@@ -63,7 +60,7 @@
       "id": "canal-4",
       "name": "Canal 4",
       "stream_url": "http://200.125.170.122:8000/play/a04x/index.m3u8",
-      "logo": "https://raw.githubusercontent.com/robertovillalobos996-rgb/fabulosa-data/main/logos/canal-4-salvador.png",
+      "logo": "https://raw.githubusercontent.com/robertovillalobos996-rgb/fabulosa-data/main/logos/Canal-4-salvador.png",
       "category": "Costa Rica"
     },
     {
@@ -81,15 +78,13 @@
       "category": "Internacional"
     },
     {
-  "id": "planet-tv",
-  "name": "Planet",
-  "stream_url": "https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8",
-  "logo": "https://raw.githubusercontent.com/robertovillalobos996-rgb/fabulosa-data/main/logos/planet-radio.webp",
-  "category": "Música"
-}
-
+      "id": "planet-tv",
+      "name": "Planet",
+      "stream_url": "https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8",
+      "logo": "https://raw.githubusercontent.com/robertovillalobos996-rgb/fabulosa-data/main/logos/planet-radio.webp",
+      "category": "Música"
     },
-    
+    {
       "id": "opa-tv",
       "name": "OPA",
       "stream_url": "https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/chunklist_w215971633.m3u8",
