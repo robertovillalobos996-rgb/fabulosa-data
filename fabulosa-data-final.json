@@ -4,7 +4,8 @@
     "version": "1.0",
     "updated_at": "2025-12-26"
   },
-  "radio": [
+
+  "stations": [
     {
       "id": "radio-fabulosa",
       "name": "Radio Fabulosa",
@@ -13,7 +14,8 @@
       "tags": ["radio", "fabulosa"]
     }
   ],
-  "tv_channels": [
+
+  "channels": [
     {
       "id": "canal-11",
       "name": "Canal 11",
